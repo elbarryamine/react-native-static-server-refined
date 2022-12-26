@@ -1,10 +1,13 @@
 {
   "name": "react-native-static-server-refined",
-  "version": "0.0.3",
+  "version": "0.5.0",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/elbarryamine/react-native-static-server-refined.git",
+    "baseUrl": "https://github.com/elbarryamine/react-native-static-server-refined"
   },
-  "title": "Refined version of React Native Static Server",
+  "homepage": "https://github.com/elbarryamine/react-native-static-server-refined",
+  "title": "React Native Static Server",
   "description": "HTTP static file server for React Native",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -29,6 +32,7 @@
     "android",
     "ios",
     "index.js",
+    "index.d.ts",
     "react-native-static-server-refined.podspec"
   ]
 }
