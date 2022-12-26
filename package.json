@@ -1,0 +1,34 @@
+{
+  "name": "react-native-static-server-refined",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git"
+  },
+  "title": "Refined version of React Native Static Server",
+  "description": "HTTP static file server for React Native",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Elbarry Amine",
+    "email": "itselbarryamine@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "files": [
+    "android",
+    "ios",
+    "index.js",
+    "react-native-static-server-refined.podspec"
+  ]
+}
